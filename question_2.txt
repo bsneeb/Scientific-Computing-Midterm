@@ -1,0 +1,10 @@
+Brady Neeb
+Scientific Computing Midterm Exam 
+Question #2 
+
+The chief advantages of floating point arithmetic include having a very large range of numbers. They can represent numbers from those who are very small, to those that are very high. But, they do come with some disadvantages:
+
+Some disadvantages include:
+    1) Inconsistency in a variety of applications. For example, the smear / shotgun viewpoint describes floating point numbers as 'near' the solution, not at the solution. 
+    2) Roundoff is a disadvantage. Some numbers do not have floating point representations, which can lead to incorrect calculations. For example, the midpoint video we saw in class illustrates how difficult it can be to truly find the midpoint between two numbers, which is a seemingly easy problem.
+    3) Base issues - For example, 1/10 seems like an easy fraction to deal with, but in base 2 it has a nonterminating and nonrepeating expansion. 

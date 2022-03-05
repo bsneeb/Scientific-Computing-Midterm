@@ -1,0 +1,8 @@
+Brady Neeb
+Scientific Computing Midterm Exam
+Question 3 - Textbook 2.1, 2.2, 2.4, 2.5
+
+2.1) F
+2.2) T
+2.4) T 
+2.5) F

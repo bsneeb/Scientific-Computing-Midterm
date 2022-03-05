@@ -1,0 +1,7 @@
+Brady Neeb
+Scientific Computing Midterm Exam
+Question #5
+
+Some of the main advantages of keeping code in a versioning system such as github is because it provides further backup to your files. For example, in some cases, it is not enough to store your code locally and on dropbox, so it may help to keep your code backed up on github. Another advantage is that you can share your code through github, allowing for developers to work together to build further. Lastly, an advantage of github is using their version control system. If someone forgets to save their code or their computer does something unexpected, github will have their back, since it saves versions of projects. This is also useful if you have a team of developers, and you want to improve off of previous implementations of the project, or you want to start to work on something new on your own branch. 
+
+One disadvantage that one can run into on github are legal issues. Sometimes users neglect to read and fully understand the licensing on some projects, which may lead to bad situations. Another disadvantage could be security. If someone is concerned about security, they may want to look elsewhere to store their code because there are more secure options than github.
